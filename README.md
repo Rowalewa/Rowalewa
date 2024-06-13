@@ -1,4 +1,4 @@
-- 👋 Hi, I am @Rowalewa Leslie Wanjala
+- 👋 Hi, I am Leslie Wanjala, Alliance High School, BSc CS.
 - 👀 I am interested in Software Development
 - 🌱 I have skills in Full Stack Development for android application development and website development.
 - 💞️ I am looking to collaborate on ...
