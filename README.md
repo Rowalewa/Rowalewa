@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rowalewa Leslie Wanjala
-- 👀 I’m interested in Software Development
-- 🌱 I’m have skills in Full Stack Development for android application development and website development.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I am @Rowalewa Leslie Wanjala
+- 👀 I am interested in Software Development
+- 🌱 I have skills in Full Stack Development for android application development and website development.
+- 💞️ I am looking to collaborate on ...
 - 📫 How to reach me: Check my social media links on my profile
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Python was not named after a snake.
