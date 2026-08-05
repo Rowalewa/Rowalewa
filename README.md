@@ -1,4 +1,4 @@
-- 👋 Hi, I am Jeff Otieno.
+- 👋 Hi, I am Leslie Wanjala.
 - 👀 I am interested in Software Development and Data Science.
 - 🌱 I have skills in Full Stack Development for android application development and website development.
 - 💞️ I am looking to collaborate on ...
